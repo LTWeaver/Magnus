@@ -102,7 +102,7 @@ _/      _/   _/_/_/   _/_/_/ _/    _/   _/_/_/ _/_/_/
         x = input("\n>>$ ")
         if x == '1':
             os.system('cls')
-            ransomware.encrypt()    # Starts
+            ransomware.encrypt()
 
         elif x == '2':
             os.system('cls')
